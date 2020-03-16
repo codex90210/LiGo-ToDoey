@@ -1,7 +1,7 @@
 # LiGo-ToDoey
-LiGo (List and Go) is a To do list application. (Made with the tutorials from Udemy -- ToDoey)
+LiGo (List and Go) is a to do list application. (Made with the tutorials from Udemy -- ToDoey)
 
-The app is a list creation tool that users can create, save, delete, and search their own personal to-do list. I’ve utilized third party framework – Chameleon for a more robust approach on UI display.
+The app is a list creation tool that users can create, save, delete, and search their own personal to-do list.
 
 # Screenshots
 
